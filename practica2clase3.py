@@ -37,3 +37,10 @@ while True:
         break
 conexion1.close()
 conexion2.close()
+
+#virtualenv -p python / crear entorno virutal
+#ir al directorio del entroo virtual (/home/greencore/hola/bin/)
+#Source Activate 
+
+#machine learning - aprendizaje supervisdo
+#deep learning - aprendizaje no supervisdo
